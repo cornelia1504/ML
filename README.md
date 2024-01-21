@@ -11,10 +11,13 @@ Données d’expressions de gènes issus des patients.
 Python = 3.9
 
 Les packages en plus et leurs intallation si ce n'est pas encore fait:
+
   conda install -c conda-forge pandas
+  
   conda install -c conda-forge matplotlib
+  
   conda install -c conda-forge seaborn
-  conda install -c conda-forge sklearn
+  
   conda install -c conda-forge scikit-learn
 
 Assurer vous d'avoir **Tkinter** si vous executer le code à partir d'un terminal. 
